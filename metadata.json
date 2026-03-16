@@ -1,0 +1,7 @@
+{
+  "name": "AdZo",
+  "description": "Uma única plataforma que cria, analisa e otimiza anúncios completos — imagens, textos, vídeos e campanhas.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
